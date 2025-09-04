@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/ransh_sunuwar" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="mailto:ranshsuar@gmail.com" target="_blank">
+  <a href="mailto:ranshchettri788@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
