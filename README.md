@@ -3,7 +3,6 @@
 </p>
 
 <h3 align="center">Aspiring Software Developer | AI & ML Enthusiast</h3>
-
 <br>
 
 <img 
