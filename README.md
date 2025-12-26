@@ -1,69 +1,98 @@
-<h1 align="center">I'm Ransh Chettri</h1>
-<h3 align="center">🚀 Aspiring Software Developer | AI & ML Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I'm+Ransh+Chettri" alt="Typing SVG"/>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ranshchettri]
-- 📫 How to reach me **ranshchettri788@gmail.com**
-- 😄 Pronouns: **He/Him**
+<h3 align="center">Aspiring Software Developer | AI & ML Enthusiast</h3>
 
-<p><img align="left" width="400" src="https://raw.githubusercontent.com/ranshsunuwar/ranshsunuwar/main/assets/your_gif.gif" /></p>
+<br>
 
+<img 
+  align="right" 
+  alt="coding" 
+  width="350" 
+  height="300"
+  src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif"
+/>
 
+- 👨‍💻 All of my projects are available at  
+  👉 [http://ransh-portfolio.vercel.app/]
 
-<h2>🌐 Connect with me:</h2>
+- 📫 How to reach me  
+  😏**ranshchettri788@gmail.com**
+
+- 🫩 Pronouns: **He/Him**
+
+<br>
+
+<h2>🤙 Connect with me:</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ransh-sunuwar-852386315" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100082867965555&mibextid=ZbWKwL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/ransh_sunuwar" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40"/>
   </a>
   <a href="mailto:ranshchettri788@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
   </a>
 </p>
 
 
 
-<h2>💻 Skills:</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/-C-000000?logo=c&logoColor=A8BFFA&style=flat" />
-  <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&logoColor=A8BFFA&style=flat" />
-  <img src="https://img.shields.io/badge/-C%23-000000?logo=c-sharp&logoColor=A8BFFA&style=flat" />
-  <img src="https://img.shields.io/badge/-HTML5-000000?logo=html5&logoColor=E34F26&style=flat" />
-  <img src="https://img.shields.io/badge/-CSS3-000000?logo=css3&logoColor=1572B6&style=flat" />
-  <img src="https://img.shields.io/badge/-Java-000000?logo=java&logoColor=F7DF1E&style=flat" />
-  <img src="https://img.shields.io/badge/-JavaScript-000000?logo=javascript&logoColor=F7DF1E&style=flat" />
-  <img src="https://img.shields.io/badge/-MySQL-000000?logo=mysql&logoColor=4479A1&style=flat" />
-  <img src="https://img.shields.io/badge/-MongoDB-000000?logo=mongodb&logoColor=47A248&style=flat" />
-  <img src="https://img.shields.io/badge/-Node.js-000000?logo=node.js&logoColor=339933&style=flat" />
-  <img src="https://img.shields.io/badge/-PHP-000000?logo=php&logoColor=777BB4&style=flat" />
-  <img src="https://img.shields.io/badge/-Python-000000?logo=python&logoColor=3776AB&style=flat" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-000000?logo=tailwind-css&logoColor=38B2AC&style=flat" />
-  <img src="https://img.shields.io/badge/-Bootstrap-000000?logo=bootstrap&logoColor=7952B3&style=flat" />
-  <img src="https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB&style=flat" />
-  <img src="https://img.shields.io/badge/-Figma-000000?logo=figma&logoColor=F24E1E&style=flat" />
-  <img src="https://img.shields.io/badge/-Canva-000000?logo=canva&logoColor=00C4CC&style=flat" />
-  <img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=F05032&style=flat" />
-  <img src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-WordPress-000000?logo=wordpress&logoColor=21759B&style=flat" />
+<h2 align="center">💻 Tech Stack</h2>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-black?logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Express-black?logo=express&logoColor=white"/>
 </p>
 
 
-
-<h2>🧰 Development Tools:</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/-VSCode-000000?logo=visual-studio-code&logoColor=007ACC&style=flat" />
-  <img src="https://img.shields.io/badge/-Vite-000000?logo=vite&logoColor=646CFF&style=flat" />
-  <img src="https://img.shields.io/badge/-Prettier-000000?logo=prettier&logoColor=F7B93E&style=flat" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat" />
+<h3 align="center">Core Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-black?logo=c&logoColor=A8BFFA"/>
+  <img src="https://img.shields.io/badge/C%23-black?logo=c-sharp&logoColor=A8BFFA"/>
+  <img src="https://img.shields.io/badge/Java-black?logo=java&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=F7DF1E"/>
 </p>
 
----
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=316192"/>
+  <img src="https://img.shields.io/badge/Supabase-black?logo=supabase&logoColor=3ECF8E"/>
+</p>
 
-<p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranshsunuwar&show_icons=true&locale=en&layout=compact" /></p>
 
-<p><img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=ranshsunuwar&show_icons=true&locale=en" alt="ranshsunuwar" /></p>
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-black?logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/React-black?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&logoColor=7952B3"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-black?logo=tailwind-css&logoColor=38B2AC"/>
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
+</p>
+
+
+<h3 align="center">Tools & Deployment</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-black?logo=visual-studio-code&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/Vite-black?logo=vite&logoColor=646CFF"/>
+  <img src="https://img.shields.io/badge/Prettier-black?logo=prettier&logoColor=F7B93E"/>
+  <img src="https://img.shields.io/badge/Figma-black?logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/WordPress-black?logo=wordpress&logoColor=21759B"/>
+  <img src="https://img.shields.io/badge/Postman-black?logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-black?logo=docker&logoColor=2496ED"/>
+</p>
+
+
