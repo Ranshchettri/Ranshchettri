@@ -14,7 +14,7 @@
 />
 
 - 👨‍💻 All of my projects are available at  
-  👉 [http://ransh-portfolio.vercel.app/]
+  👉  [https://ranshchettri.github.io/MyPortfolio]
 
 - 📫 How to reach me  
   😏**ranshchettri788@gmail.com**
