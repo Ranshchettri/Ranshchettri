@@ -26,7 +26,7 @@
 <h2>🤙 Connect with me:</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ransh-sunuwar-852386315" target="_blank">
+  <a href="https://linkedin.com/in/ransh-chettri-852386315" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100082867965555&mibextid=ZbWKwL" target="_blank">
