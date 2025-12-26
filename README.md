@@ -1,8 +1,8 @@
 <h1 align="center">I'm Ransh Chettri</h1>
 <h3 align="center">🚀 Aspiring Software Developer | AI & ML Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ranshsunuwar](https://github.com/ranshsunuwar)
-- 📫 How to reach me **ranshsuar@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/Ranshchettri]
+- 📫 How to reach me **ranshchettri788@gmail.com**
 - 😄 Pronouns: **He/Him**
 
 <p><img align="left" width="400" src="https://raw.githubusercontent.com/ranshsunuwar/ranshsunuwar/main/assets/your_gif.gif" /></p>
