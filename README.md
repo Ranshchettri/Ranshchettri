@@ -21,7 +21,8 @@
 
 - 🫩 Pronouns: **He/Him**
 
-<br>
+<br><br>
+
 
 <h2>🤙 Connect with me:</h2>
 
