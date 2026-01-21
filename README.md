@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I'm+Ransh+Chettri" alt="Typing SVG"/>
 </p>
 
-<h3 align="center"> Software Developer | AI & ML Enthusiast</h3>
+<h3 align="center"> Software Developer & AI & ML Enthusiast</h3>
 <br>
 
 <img 
@@ -24,22 +24,30 @@
 <br><br>
 
 
-<h2>🤙 Connect with me:</h2>
+<h2>🤙 Connect with me</h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/ransh-chettri-852386315" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  <a href="https://linkedin.com/in/ransh-chettri-852386315">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100082867965555&mibextid=ZbWKwL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/profile.php?id=100082867965555&mibextid=ZbWKwL">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="42"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.instagram.com/ransh_sunuwar" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40"/>
   </a>
-  <a href="mailto:ranshchettri788@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:ranshchettri788@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
   </a>
 </p>
+
+
 
 
 
