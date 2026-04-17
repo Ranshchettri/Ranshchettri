@@ -37,7 +37,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/ransh_sunuwar" target="_blank">
+  <a href="https://www.instagram.com/ranshchettri09" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
