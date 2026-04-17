@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=I'm+Ransh+Chettri" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Myself+Ransh+Chettri" alt="Typing SVG"/>
 </p>
 <h3 align="center"> A Fullstack  Developer & AI | ML Enthusiast</h3>
 
