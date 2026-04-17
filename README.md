@@ -21,7 +21,8 @@
 
 - 🫩 Pronouns: **He/Him**
 
-<br><br>
+<br><br><br>
+
 
 
 <h2>🤙 Connect with me</h2>
@@ -30,18 +31,15 @@
   <a href="https://linkedin.com/in/ransh-chettri-852386315">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100082867965555&mibextid=ZbWKwL">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="42"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/ranshchettri09" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="42"/>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ranshchettri09">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="42"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="mailto:ranshchettri788@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
   </a>
