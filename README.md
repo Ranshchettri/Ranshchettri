@@ -57,7 +57,6 @@
   <img src="https://img.shields.io/badge/Express-black?logo=express&logoColor=white"/>
 </p>
 
-
 <h3 align="center">Core Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-black?logo=c&logoColor=A8BFFA"/>
@@ -66,6 +65,7 @@
   <img src="https://img.shields.io/badge/Python-black?logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=F7DF1E"/>
 </p>
+
 
 <h3 align="center">Database</h3>
 <p align="center">
@@ -76,7 +76,7 @@
 </p>
 
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend & Authentication</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-black?logo=css3&logoColor=1572B6"/>
@@ -84,8 +84,10 @@
   <img src="https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&logoColor=7952B3"/>
   <img src="https://img.shields.io/badge/TailwindCSS-black?logo=tailwind-css&logoColor=38B2AC"/>
   <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bcrypt-black?logo=lock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth-black?logo=auth0&logoColor=EB5424"/>
 </p>
-
 
 <h3 align="center">Tools & Deployment</h3>
 <p align="center">
@@ -97,8 +99,12 @@
   <img src="https://img.shields.io/badge/Figma-black?logo=figma&logoColor=F24E1E"/>
   <img src="https://img.shields.io/badge/WordPress-black?logo=wordpress&logoColor=21759B"/>
   <img src="https://img.shields.io/badge/Postman-black?logo=postman&logoColor=FF6C37"/>
-  <img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-black?logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-black?logo=render&logoColor=46E3B7"/>
+  <img src="https://img.shields.io/badge/Railway-black?logo=railway&logoColor=white"/>
 </p>
+
+
 
 
