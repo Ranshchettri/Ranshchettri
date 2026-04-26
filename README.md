@@ -19,8 +19,7 @@
 - 📫 How to reach me  
   😏**ranshchettri788@gmail.com**
 
-
-
+  -  Pronouns **"Hey/Him"**
   
 
 <br><br><br><br>
@@ -28,6 +27,7 @@
 
 
 <h2>🤙 Connect with me</h2>
+
 <p align="left">
   <a href="https://linkedin.com/in/ransh-chettri-852386315">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
