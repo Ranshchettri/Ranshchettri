@@ -19,7 +19,7 @@
 - 📫 How to reach me  
   😏**ranshchettri788@gmail.com**
 
-- 🫩 Pronouns
+- 🫩 
 
 <br><br><br><br>
 
