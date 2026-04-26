@@ -18,8 +18,7 @@
 
 - 📫 How to reach me  
   😏**ranshchettri788@gmail.com**
-
-- 🫩 
+  
 
 <br><br><br><br>
 
