@@ -5,7 +5,6 @@
 
 <br>
 
-..
 <img 
   align="right" 
   alt="coding" 
