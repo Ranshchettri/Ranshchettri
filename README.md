@@ -3,7 +3,6 @@
 </p>
 <h3 align="center"> A Fullstack  Developer & AI | ML Enthusiast</h3>
 
-<br>
 
 <img 
   align="right" 
