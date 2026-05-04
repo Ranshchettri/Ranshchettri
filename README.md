@@ -5,7 +5,7 @@
 
 <br>
 
-<img ...
+<img .
   align="right" 
   alt="coding" 
   width="350" 
