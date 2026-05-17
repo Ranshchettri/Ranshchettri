@@ -19,7 +19,7 @@
   📫 How to reach me:  
   😏**ranshchettri788@gmail.com**
 
-  😵Pronouns: **"Hey/Him"**
+  😵Pronouns: **"He/Him"**
   
 
 <br><br><br><br>
